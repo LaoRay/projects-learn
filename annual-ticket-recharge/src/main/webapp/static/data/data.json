@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "code": "0",
+    "message": "成功"
+  },
+  "data": {
+    "generalLedger": {
+      "accountName": "陈善华",
+      "registerNo": "62232319870316141200",
+      "idNo": "622323198703161412",
+      "housingFundBalance": "111,494.89 元",
+      "monthPayment": "4,320",
+      "updateTime": "2017-05-18",
+      "depositUnit": "北京顺泰文人力资源管理服务有限责任公司",
+      "accountStatus": "缴存"
+    },
+    "accountYearItems": [
+      {
+        "year": 2017,
+        "acountItems": [
+          {
+            "itemToAccountDate": "20170518",
+            "itemToAccountMonth": "201704",
+            "itemType": "汇缴",
+            "itemAddAmount": "4,320",
+            "itemReduceAmount": "0",
+            "itemBalance": "111,494.89",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20170414",
+            "itemToAccountMonth": "201703",
+            "itemType": "汇缴",
+            "itemAddAmount": "4,320",
+            "itemReduceAmount": "0",
+            "itemBalance": "107,174.89",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20170315",
+            "itemToAccountMonth": "201702",
+            "itemType": "汇缴",
+            "itemAddAmount": "4,320",
+            "itemReduceAmount": "0",
+            "itemBalance": "102,854.89",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20170215",
+            "itemToAccountMonth": "201701",
+            "itemType": "汇缴",
+            "itemAddAmount": "4,320",
+            "itemReduceAmount": "0",
+            "itemBalance": "98,534.89",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20170113",
+            "itemToAccountMonth": "201612",
+            "itemType": "汇缴",
+            "itemAddAmount": "4,320",
+            "itemReduceAmount": "0",
+            "itemBalance": "94,214.89",
+            "itemDepositUnit": null
+          }
+        ]
+      },
+      {
+        "year": 2016,
+        "acountItems": [
+          {
+            "itemToAccountDate": "20161219",
+            "itemToAccountMonth": "201611",
+            "itemType": "汇缴",
+            "itemAddAmount": "4,320",
+            "itemReduceAmount": "0",
+            "itemBalance": "89,894.89",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20161111",
+            "itemToAccountMonth": "201610",
+            "itemType": "汇缴",
+            "itemAddAmount": "4,320",
+            "itemReduceAmount": "0",
+            "itemBalance": "85,574.89",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20161014",
+            "itemToAccountMonth": "201609",
+            "itemType": "汇缴",
+            "itemAddAmount": "4,320",
+            "itemReduceAmount": "0",
+            "itemBalance": "81,254.89",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20160914",
+            "itemToAccountMonth": "201608",
+            "itemType": "汇缴",
+            "itemAddAmount": "4,320",
+            "itemReduceAmount": "0",
+            "itemBalance": "76,934.89",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20160812",
+            "itemToAccountMonth": "201607",
+            "itemType": "汇缴",
+            "itemAddAmount": "4,320",
+            "itemReduceAmount": "0",
+            "itemBalance": "72,614.89",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20160630",
+            "itemToAccountMonth": null,
+            "itemType": "年度结息",
+            "itemAddAmount": "789.08",
+            "itemReduceAmount": "0",
+            "itemBalance": "68,294.89",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20160624",
+            "itemToAccountMonth": "201606",
+            "itemType": "汇缴",
+            "itemAddAmount": "4,320",
+            "itemReduceAmount": "0",
+            "itemBalance": "67,505.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20160620",
+            "itemToAccountMonth": null,
+            "itemType": "内部转移",
+            "itemAddAmount": "0",
+            "itemReduceAmount": "63,185.81",
+            "itemBalance": "0",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20160620",
+            "itemToAccountMonth": null,
+            "itemType": "内部转移",
+            "itemAddAmount": "63,185.81",
+            "itemReduceAmount": "0",
+            "itemBalance": "63,185.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20160527",
+            "itemToAccountMonth": "201605",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,942",
+            "itemReduceAmount": "0",
+            "itemBalance": "63,185.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20160426",
+            "itemToAccountMonth": "201604",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,942",
+            "itemReduceAmount": "0",
+            "itemBalance": "61,243.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20160328",
+            "itemToAccountMonth": "201603",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,942",
+            "itemReduceAmount": "0",
+            "itemBalance": "59,301.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20160301",
+            "itemToAccountMonth": "201602",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,942",
+            "itemReduceAmount": "0",
+            "itemBalance": "57,359.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20160201",
+            "itemToAccountMonth": "201601",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,942",
+            "itemReduceAmount": "0",
+            "itemBalance": "55,417.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20160114",
+            "itemToAccountMonth": "201512",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,942",
+            "itemReduceAmount": "0",
+            "itemBalance": "53,475.81",
+            "itemDepositUnit": null
+          }
+        ]
+      },
+      {
+        "year": 2015,
+        "acountItems": [
+          {
+            "itemToAccountDate": "20151130",
+            "itemToAccountMonth": "201511",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,942",
+            "itemReduceAmount": "0",
+            "itemBalance": "51,533.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20151029",
+            "itemToAccountMonth": "201510",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,942",
+            "itemReduceAmount": "0",
+            "itemBalance": "49,591.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20150930",
+            "itemToAccountMonth": "201509",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,942",
+            "itemReduceAmount": "0",
+            "itemBalance": "47,649.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20150826",
+            "itemToAccountMonth": "201508",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,942",
+            "itemReduceAmount": "0",
+            "itemBalance": "45,707.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20150806",
+            "itemToAccountMonth": "201507",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,942",
+            "itemReduceAmount": "0",
+            "itemBalance": "43,765.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20150630",
+            "itemToAccountMonth": null,
+            "itemType": "年度结息",
+            "itemAddAmount": "423.99",
+            "itemReduceAmount": "0",
+            "itemBalance": "41,823.81",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20150625",
+            "itemToAccountMonth": "201506",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,380",
+            "itemReduceAmount": "0",
+            "itemBalance": "41,399.82",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20150619",
+            "itemToAccountMonth": "201505",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,380",
+            "itemReduceAmount": "0",
+            "itemBalance": "40,019.82",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20150518",
+            "itemToAccountMonth": "201504",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,380",
+            "itemReduceAmount": "0",
+            "itemBalance": "38,639.82",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20150415",
+            "itemToAccountMonth": "201503",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,380",
+            "itemReduceAmount": "0",
+            "itemBalance": "37,259.82",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20150305",
+            "itemToAccountMonth": "201502",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,380",
+            "itemReduceAmount": "0",
+            "itemBalance": "35,879.82",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20150122",
+            "itemToAccountMonth": "201501",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,380",
+            "itemReduceAmount": "0",
+            "itemBalance": "34,499.82",
+            "itemDepositUnit": null
+          }
+        ]
+      },
+      {
+        "year": 2014,
+        "acountItems": [
+         
+        ]
+      },
+      {
+        "year": 2013,
+        "acountItems": [
+          {
+            "itemToAccountDate": "20131224",
+            "itemToAccountMonth": "201312",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "18,380.49",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20131125",
+            "itemToAccountMonth": "201311",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "17,360.49",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20131022",
+            "itemToAccountMonth": "201310",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "16,340.49",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20130925",
+            "itemToAccountMonth": "201309",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "15,320.49",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20130822",
+            "itemToAccountMonth": "201308",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "14,300.49",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20130724",
+            "itemToAccountMonth": "201307",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "13,280.49",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20130630",
+            "itemToAccountMonth": null,
+            "itemType": "年度结息",
+            "itemAddAmount": "20.49",
+            "itemReduceAmount": "0",
+            "itemBalance": "12,260.49",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20130613",
+            "itemToAccountMonth": "201306",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "12,240",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20130523",
+            "itemToAccountMonth": "201305",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "11,220",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20130424",
+            "itemToAccountMonth": "201304",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "10,200",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20130322",
+            "itemToAccountMonth": "201303",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "9,180",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20130225",
+            "itemToAccountMonth": "201302",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "8,160",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20130123",
+            "itemToAccountMonth": "201301",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "7,140",
+            "itemDepositUnit": null
+          }
+        ]
+      },
+      {
+        "year": 2012,
+        "acountItems": [
+          {
+            "itemToAccountDate": "20121225",
+            "itemToAccountMonth": "201212",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "6,120",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20121123",
+            "itemToAccountMonth": "201211",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "5,100",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20121026",
+            "itemToAccountMonth": "201210",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "4,080",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20120926",
+            "itemToAccountMonth": "201209",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "3,060",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20120824",
+            "itemToAccountMonth": "201208",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "2,040",
+            "itemDepositUnit": null
+          },
+          {
+            "itemToAccountDate": "20120802",
+            "itemToAccountMonth": "201207",
+            "itemType": "汇缴",
+            "itemAddAmount": "1,020",
+            "itemReduceAmount": "0",
+            "itemBalance": "1,020",
+            "itemDepositUnit": null
+          }
+        ]
+      }
+    ]
+  }
+}

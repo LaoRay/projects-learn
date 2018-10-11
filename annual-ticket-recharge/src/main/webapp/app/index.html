@@ -1,0 +1,27 @@
+<html> <head> <meta charset=utf-8> <meta name=renderer content=webkit> <meta http-equiv=Cache-Control content=no-siteapp> <meta name=apple-mobile-web-app-capable content=yes> <meta name=apple-mobile-web-app-status-bar-style content=grey> <meta name=format-detection content="telephone=no"> <meta http-equiv=Content-Type content="text/html;charset = gb2312"/> <title>加载中...</title> <link rel=stylesheet href=https://cache.amap.com/lbs/static/main1119.css /> <script src="http://pv.sohu.com/cityjson?ie=utf-8"></script> <script> var defaultW = 375;
+			if(/Android (d+.d+)/.test(navigator.userAgent)) {
+				var version = parseFloat(RegExp.$1);
+				if(version > 2.3) {
+					var phoneScale = parseInt(window.screen.width) / defaultW;
+					document.write('<meta name="viewport" content="width=' + defaultW + '", minimum-scale = ' + phoneScale + ", maximum-scale = " + phoneScale + ', target-densitydpi=device-dpi">')
+				} else {
+					document.write('<meta name="viewport" content="width=' + defaultW + '">')
+				}
+			} else {
+				document.write('<meta name="viewport" content="width=' + defaultW + ', user-scalable=no">')
+			};
+			//配置config
+			var configUrl = location.host.substr(0, location.host.indexOf(".")) || "192";
+			document.write('<script src="../static/config/app/' + configUrl + '.config.js"><\/script>') </script> <script> (function(para) {
+				window['sensorsDataAnalytic201505'] = para.name;
+				window[para.name] = {
+					para: para
+				};
+			})({
+				name: 'sa',
+				sdk_url: 'http://systatic.fuzhou.gov.cn/sensors/sensorsdata.min.js',
+				heatmap_url: 'http://systatic.fuzhou.gov.cn/sensors/heatmap.min.js',
+				//配置打通 App 与 H5 的参数
+				use_app_track: true,
+				server_url: CONFIG.sensors_server_url
+			}); </script> <script src=https://code.jquery.com/jquery-2.1.4.min.js></script> <script src=//systatic.fuzhou.gov.cn/sensors/sensorsdata.min.js></script> <link href="../app/index.css?23105fd30c57682eedb3" rel="stylesheet"></head> <body class=dashboard id=dashboard> <div id=app></div> <script type="text/javascript" src="../static/common/vendors.js?23105fd30c57682eedb3"></script><script type="text/javascript" src="../app/index.js?23105fd30c57682eedb3"></script></body> </html> 

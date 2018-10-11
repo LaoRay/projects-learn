@@ -1,0 +1,27 @@
+{
+
+	"meta": {
+		"code": 200,
+		"message": "请求成功"
+	},
+	"data": [
+		{
+			"dwmc": "string",
+			"dwzh": "8698745215",
+			"grxm": "赵学盼",
+			"grzh": "152698752",
+			"zhzt": "string" ,
+			"status": "string",
+			"kyye": "526974",
+			"jcjs": "6359",
+			"yjce": "2018-5",
+			"lxjcy": "20%" ,
+			"grbl": "20%",
+			"dwbl": "63524",
+			"nhje": "5236",
+			"ntqe": "7855" ,
+			"sbjyrq": "2017-3",
+			"khrq": "2016-2-5"
+		}
+	]
+}
